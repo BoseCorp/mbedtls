@@ -1,0 +1,10 @@
+{
+    "comment": "This file describes the top level configuration for each component. No two components can have the same id or name.",
+    "name": "mbedtls",
+    "tapabv": "tpl",
+    "description": "mbedtls component",
+    "request_handler":"",
+    "response_handler":"",
+    "event_handler":"",
+    "system_message_handler":""
+}

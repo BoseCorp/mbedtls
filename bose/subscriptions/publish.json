@@ -1,0 +1,15 @@
+{
+    "comment": "This file describes the events published by this component",
+    "publish_events":[
+        {
+            "name":"<name of the event being published>",
+            "id":0,
+            "description":"<event description>"
+        },
+        {
+            "name":"<name of the event being published>",
+            "id":1,
+            "description":"<event description>"
+        }       
+    ]
+}

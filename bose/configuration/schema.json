@@ -1,0 +1,26 @@
+{
+    "$comment": "General info can be found here: https://json-schema.org/",
+    "type": "object",
+    "properties": {
+        "use_cool_option": {
+            "description": "Something cool",
+            "type": "boolean"
+        },
+        "subsystem": {
+            "description": "A sub object that we can use to encapsulate more config info",
+            "type": "object",
+            "properties": {
+                "fizz": { "type": "string" },
+                "object": {
+                    "description": "Another sub configuration",
+                    "type": "object",
+                    "properties": {
+                        "buzz": { "type": "boolean" }
+                    }
+                }
+            }
+        }
+    },
+    "required": [],
+    "additionalProperties": false
+}

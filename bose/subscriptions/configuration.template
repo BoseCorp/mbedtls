@@ -1,0 +1,10 @@
+{
+    "comment": "This file describes the top level configuration for each component. No two components can have the same name.",
+    "name": "<component name>",  
+    "description": "<description of component>",
+    "tapabv": "<three letter tap abreviation, tap commands are in the format cor.command where cor is the 3 letter abreviation>",
+    "request_handler":"<Component request handler>",
+    "response_handler":"<Component response handler>",
+    "event_handler":"<Component event handler>",
+    "system_message_handler":"<Component system message handler>"
+}

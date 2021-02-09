@@ -1,0 +1,9 @@
+{
+    "use_cool_option": true,
+    "subsystem": {
+        "fizz": "FizzBuzz",
+        "object": {
+            "buzz": false
+        }
+    }
+}

@@ -1,0 +1,70 @@
+conan = {
+
+    "conan" : {
+        "CPPPATH"     : [],
+        "LIBPATH"     : [],
+        "BINPATH"     : [],
+        "LIBS"        : [],
+        "CPPDEFINES"  : [],
+        "CXXFLAGS"    : [],
+        "CCFLAGS"     : [],
+        "SHLINKFLAGS" : [],
+        "LINKFLAGS"   : [],
+    },
+    "conan_version" : "None",
+
+    "SpitfireAutomation" : {
+        "CPPPATH"     : [],
+        "LIBPATH"     : [],
+        "BINPATH"     : [],
+        "LIBS"        : [],
+        "CPPDEFINES"  : [],
+        "CXXFLAGS"    : [],
+        "CCFLAGS"     : [],
+        "SHLINKFLAGS" : [],
+        "LINKFLAGS"   : [],
+    },
+    "SpitfireAutomation_version" : "0.0.23+gdc58d35",
+
+    "QualcommProjectFilesGenerator" : {
+        "CPPPATH"     : [],
+        "LIBPATH"     : [],
+        "BINPATH"     : [],
+        "LIBS"        : [],
+        "CPPDEFINES"  : [],
+        "CXXFLAGS"    : [],
+        "CCFLAGS"     : [],
+        "SHLINKFLAGS" : [],
+        "LINKFLAGS"   : [],
+    },
+    "QualcommProjectFilesGenerator_version" : "0.0.13+ga3b95e5",
+
+    "SpitfireToolchain" : {
+        "CPPPATH"     : [],
+        "LIBPATH"     : [],
+        "BINPATH"     : [],
+        "LIBS"        : [],
+        "CPPDEFINES"  : [],
+        "CXXFLAGS"    : [],
+        "CCFLAGS"     : [],
+        "SHLINKFLAGS" : [],
+        "LINKFLAGS"   : [],
+    },
+    "SpitfireToolchain_version" : "1.1.50+gd620948",
+
+    "SpitfireStrepplusToolchain" : {
+        "CPPPATH"     : [],
+        "LIBPATH"     : [],
+        "BINPATH"     : [],
+        "LIBS"        : [],
+        "CPPDEFINES"  : [],
+        "CXXFLAGS"    : [],
+        "CCFLAGS"     : [],
+        "SHLINKFLAGS" : [],
+        "LINKFLAGS"   : [],
+    },
+    "SpitfireStrepplusToolchain_version" : "1.1.0.73+c1e0174",
+
+}
+
+Return('conan')

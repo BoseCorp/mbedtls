@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.0.0)
 
 message("CALLING MBEDTLS BOSE CMAKELISTS")
 
-include(conanbuildinfo.cmake)
+include(${CMAKE_CURRENT_BINARY_DIR}/conanbuildinfo.cmake)
 include(build/spitfire_common.cmake)
 project(SpitfireMbedtls C ASM)
 

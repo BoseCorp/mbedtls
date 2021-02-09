@@ -1,0 +1,13 @@
+{
+    "comment": "This file describes the events subscribed by this component",
+    "subscribe_events":[
+        {
+            "sender":"<name of the component sending the event>",
+            "event":"<event name>"
+        },
+        {
+            "sender":"<name of the component sending the event>",
+            "event":"<event name>"
+        }
+    ]
+}

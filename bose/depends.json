@@ -1,0 +1,10 @@
+[
+  {
+    "channel": "conan_stable",
+    "component": "SpitfireToolchain",
+    "exclude_from_routing": true,
+    "options": "",
+    "user": "BoseCorp",
+    "version": "[>=0.0.1-0, include_prerelease=True]"
+  }
+]
